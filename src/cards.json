@@ -2,13 +2,13 @@
     {
         "id": 0,
         "name": "bowtie.png",
-        "imgSrc": "/clicky/static/media/bowtie.b270016e.png",
+        "imgSrc": "/clickygame/static/media/bowtie.b270016e.png",
         "isClicked": 0 
     },
     {
         "id": 1,
         "name": "bowtie2.png",
-        "imgSrc": "/static/media/bowtie2.606acb58.png",
+        "imgSrc": "/clickygame/static/media/bowtie2.606acb58.png",
         "isClicked": 0 
     },
     {
