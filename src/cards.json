@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "bowtie.png",
+        "imgSrc": "/static/media/bowtie.b270016e.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 1,
+        "name": "bowtie2.png",
+        "imgSrc": "/static/media/bowtie2.606acb58.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 2,
+        "name": "bowtie3.png",
+        "imgSrc": "/static/media/bowtie3.0b5af10e.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 3,
+        "name": "bowtie4.png",
+        "imgSrc": "/static/media/bowtie4.80d56997.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 4,
+        "name": "glasses.png",
+        "imgSrc": "/static/media/glasses.25fee3b0.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 5,
+        "name": "glasses2.png",
+        "imgSrc": "/static/media/glasses2.56b66359.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 6,
+        "name": "glasses3.png",
+        "imgSrc": "/static/media/glasses3.0b12c668.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 7,
+        "name": "glasses4.png",
+        "imgSrc": "/static/media/glasses4.3e0aa8e7.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 8,
+        "name": "mustache.png",
+        "imgSrc": "/static/media/mustache.50b68a67.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 9,
+        "name": "mustache2.png",
+        "imgSrc": "/static/media/mustache2.676a8e86.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 10,
+        "name": "mustache3.png",
+        "imgSrc": "/static/media/mustache3.fdc9ecc9.png",
+        "isClicked": 0 
+    },
+    {
+        "id": 11,
+        "name": "mustache4.png",
+        "imgSrc": "/static/media/mustache4.983337ad.png",
+        "isClicked": 0 
+    }
+]

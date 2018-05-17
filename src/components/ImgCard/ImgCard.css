@@ -1,0 +1,10 @@
+.img-thumbnail {
+    box-shadow: 2px 2px 4px;
+    display:block;
+    margin:auto;
+    cursor: pointer;
+}
+
+.img-thumbnail:hover {
+    box-shadow: 8px 8px 4px;
+}
