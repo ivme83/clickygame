@@ -3,7 +3,7 @@ import ImgBoard from "./components/ImgBoard";
 import ImgCard from "./components/ImgCard";
 import ScoreBoard from "./components/ScoreBoard";
 import Header from "./components/Header";
-import cards from './cards.json';
+import cards from './cardsBuild.json';
 import "./App.css";
 
 function importAll(r) {
