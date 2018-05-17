@@ -1,5 +1,6 @@
 .image-board-grid {
     display: grid;
     grid-template: repeat(3, 125px)/ repeat(4, 125px);
-    grid-gap: 10px;
+    grid-gap: 50px;
+    margin:auto;
 }
